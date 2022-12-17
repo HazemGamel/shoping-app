@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "72369876952",
+    "project_id": "socialchat-9b977",
+    "storage_bucket": "socialchat-9b977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72369876952:android:355833f6e0ff2c2827ccad",
+        "android_client_info": {
+          "package_name": "com.zomegy.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72369876952-3d0v0ud625hgru0m4973iqqji2llre6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zomegy.socialapp",
+            "certificate_hash": "0065d3bd0f4f6941c8da1f4c7f6ab5b6554a1a7a"
+          }
+        },
+        {
+          "client_id": "72369876952-q0598nm21jjlfqkoknktn1rej9oi5pem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQVlA6m8uhoGpMQpl8n47V8GmTF3rSprw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72369876952-q0598nm21jjlfqkoknktn1rej9oi5pem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
